@@ -12,6 +12,7 @@ a.links {
   color:white;
   display:block;
   padding-bottom:15px;
+  font-weight:bold;
 }
 
 h1 {
@@ -40,4 +41,17 @@ p {
   color:white;
   padding-top:4px;
   background-image:url("../images/the-flatiron-building.png");
+}
+
+.footer {
+  font-family:Helvetica;
+  font-size:11px;
+  color:white;
+  background-color:dimgray;
+  text-align:left;
+}
+
+.footer a {
+  color:white;
+  font-weight:bold;
 }
